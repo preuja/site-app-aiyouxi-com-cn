@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://preuja.github.io/site-app-aiyouxi-com-cn/sitemap.xml
